@@ -25,7 +25,7 @@ ul, li {
 }
   
 .header {
-  background: url('../img/glavnyyekr.jpg') no-repeat center top;
+  background: url('../glavnyyekr.jpg') no-repeat center top;
   padding-top: 35px;
   height: 750px;
 }
